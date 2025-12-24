@@ -1,0 +1,142 @@
+
+---
+
+### **一、释义匹配题**  
+请从每题四个中文选项中选出与所给英文单词释义相符的选项（可多选）。
+
+1. **animated**  
+A. 活跃的  
+B. 动画的  
+C. 冷静的  
+D. 悲伤的  
+✅ **答案：A, B**
+
+2. **scandalous**  
+A. 可耻的  
+B. 令人震惊的  
+C. 无聊的  
+D. 秘密的  
+✅ **答案：A, B**
+
+3. **sniff**  
+A. 用鼻子吸气  
+B. 抱怨地说  
+C. 大声笑  
+D. 快速说话  
+✅ **答案：A, B**
+
+4. **bemoan**  
+A. 赞美  
+B. 抱怨  
+C. 接受  
+D. 批评  
+✅ **答案：B**
+
+5. **informant**  
+A. 记者  
+B. 警察  
+C. 告密者  
+D. 听众  
+✅ **答案：C**
+
+6. **speculate**  
+A. 确认  
+B. 推测  
+C. 投资  
+D. 忽略  
+✅ **答案：B, C**
+
+7. **reciprocate**  
+A. 重复  
+B. 回报  
+C. 拒绝  
+D. 前后移动  
+✅ **答案：B, D**
+
+8. **disturbingly**  
+A. 平静地  
+B. 令人不安地  
+C. 有趣地  
+D. 轻微地  
+✅ **答案：B**
+
+9. **effeminate**  
+A. 女性化的  
+B. 强壮有力的  
+C. 中性的  
+D. 粗鲁的  
+✅ **答案：A**
+
+10. **decidedly**  
+A. 犹豫地  
+B. 明显地  
+C. 决定性地  
+D. 轻微地  
+✅ **答案：B, C**
+
+11. **etiquette**  
+A. 法律  
+B. 礼仪  
+C. 习惯  
+D. 规则  
+✅ **答案：B**
+
+12. **expletive**  
+A. 脏话  
+B. 赞美词  
+C. 无意义的词  
+D. 专业术语  
+✅ **答案：A, C**
+
+13. **masculine**  
+A. 男性的  
+B. 中性的  
+C. 典型的  
+D. 强壮的  
+✅ **答案：A**
+
+---
+
+### **二、选词填空题**  
+请从以下13个单词中选择7个填入空白处，每个词仅用一次。
+
+**单词列表**：  
+animated, scandalous, sniff, bemoan, informant, speculate, reciprocate, disturbingly, effeminate, decidedly, etiquette, expletive, masculine  
+
+**句子**：  
+1. She always speaks in such an ______ voice that everyone finds her stories exciting.  
+2. The news was so ______ that it shocked the whole community.  
+3. He tends to ______ the lack of detail in men's gossip.  
+4. As an ______, she provided valuable information to the researchers.  
+5. It is polite to ______ when someone shows kindness to you.  
+6. The number of errors in the report was ______ high.  
+7. Using strong ______ is considered rude in formal conversation.
+
+✅ **答案**：  
+1. animated  
+2. scandalous  
+3. bemoan  
+4. informant  
+5. reciprocate  
+6. disturbingly  
+7. expletives  
+
+---
+
+### **三、英汉互译题（全新句子）**
+
+#### **英译汉**（将下列英文句子翻译成中文）：
+1. The **animated** discussion finally led to a **decidedly** clear action plan.
+   ✅ **参考译文**：这场**热烈的**讨论最终形成了一个**相当**明确的行动计划。
+
+2. He muttered an angry **expletive** when he saw the **disturbingly** low score on his test.
+   ✅ **参考译文**：看到试卷上**低得令人不安的**分数时，他低声骂了句脏话。
+
+#### **汉译英**（将下列中文句子翻译成英文，必须使用括号中提供的单词）：
+1. 投资者正在**推测**（**speculate**）市场对这条**耸人听闻的**（**scandalous**）新闻会作何反应。
+   ✅ **参考译文**：Investors are **speculating** on how the market will react to this **scandalous** news.
+
+2. 在正式的商业**礼仪**（**etiquette**）中，表现出**男子气概的**（**masculine**）自信通常受到赞赏，但过于**女性化的**（**effeminate**）举止可能会被误解。
+   ✅ **参考译文**：In formal business **etiquette**, displaying **masculine** confidence is often appreciated, but overly **effeminate** mannerisms might be misunderstood.
+
+---
